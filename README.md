@@ -1,6 +1,6 @@
 # n8n-nodes-airtable-declarative
 
-This is an n8n node developed using the **declarative style** for creating Airtable bases. It provides a simple and straightforward way to create new Airtable bases with predefined structures using JSON templates.
+This is an n8n node developed using the **declarative style** for creating Airtable bases. It provides a simple and straightforward way to create new Airtable bases with predefined structures using JSON templates. UPwork
 
 n8n is a fair-code licensed workflow automation platform.
 
